@@ -1,5 +1,7 @@
 # task-tracker
 
+练习vue3+vue router+json server的task-tracker demo
+
 ## Project setup
 ```
 npm install
